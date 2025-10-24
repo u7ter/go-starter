@@ -1,9 +1,9 @@
 # Go Starter - RESTful API
 
-[![CI](https://github.com/u7ter/go-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/go-starter/actions/workflows/ci.yml)
-[![CD](https://github.com/u7ter/go-starter/actions/workflows/cd.yml/badge.svg)](https://github.com/YOUR_USERNAME/go-starter/actions/workflows/cd.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/u7ter/go-starter)](https://goreportcard.com/report/github.com/YOUR_USERNAME/go-starter)
-[![codecov](https://codecov.io/gh/u7ter/go-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/YOUR_USERNAME/go-starter)
+[![CI](https://github.com/u7ter/go-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/u7ter/go-starter/actions/workflows/ci.yml)
+[![CD](https://github.com/u7ter/go-starter/actions/workflows/cd.yml/badge.svg)](https://github.com/u7ter/go-starter/actions/workflows/cd.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/u7ter/go-starter)](https://goreportcard.com/report/github.com/u7ter/go-starter)
+[![codecov](https://codecov.io/gh/u7ter/go-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/u7ter/go-starter)
 
 A production-ready RESTful HTTP API built with Go, featuring JWT authentication, rate limiting, structured logging, and PostgreSQL database.
 
